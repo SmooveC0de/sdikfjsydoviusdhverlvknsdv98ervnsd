@@ -1287,7 +1287,7 @@ local function getObjGen()
             Gui.Rank.Size = UDim2.new(1, 0, 0.5, 0)
             Gui.Rank.ZIndex = 123
             Gui.Rank.Font = Enum.Font.Gotham
-            Gui.Rank.Text = "Admin"
+            Gui.Rank.Text = "test"
             Gui.Rank.TextColor3 = Color3.fromRGB(94, 94, 94)
             Gui.Rank.TextSize = 14.000
             Gui.Rank.TextXAlignment = Enum.TextXAlignment.Left
@@ -1309,7 +1309,7 @@ local function getObjGen()
             Gui.Title_2.Size = UDim2.new(1, 0, 0.5, 0)
             Gui.Title_2.ZIndex = 123
             Gui.Title_2.Font = Enum.Font.GothamSemibold
-            Gui.Title_2.Text = "susss!!!"
+            Gui.Title_2.Text = "test"
             Gui.Title_2.TextColor3 = Color3.fromRGB(255, 255, 255)
             Gui.Title_2.TextSize = 14.000
             Gui.Title_2.TextXAlignment = Enum.TextXAlignment.Left
